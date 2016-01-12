@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"headers"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"met",
+				"metrics"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"aut",
+				"authResult"
+			],
+			[
+				"vi",
+				"view_engine"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"div",
+				"divisor"
+			],
+			[
+				"di",
+				"dividendo"
+			],
+			[
+				"divi",
+				"divisor"
+			],
+			[
+				"safe",
+				"safeURI"
+			],
+			[
+				"sa",
+				"safeURI"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"Emmet: Decrement Number by 0.1"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"jshin",
+				"JSHint: Set Keyboard Shortcuts"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Marcus/repos/ortense.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/Marcus/repos/api-hub/views/layout.ejs",
+		"/C/Users/Marcus/repos/api-hub/views/query.ejs",
+		"/C/Users/Marcus/repos/api-hub/views/query-result.ejs",
+		"/C/Users/Marcus/repos/api-hub/app.js",
+		"/C/Users/Marcus/repos/api-hub/package.json",
+		"/C/Users/Marcus/repos/api-hub/info.json",
+		"/C/Users/Marcus/repos/passport-google-oauth/examples/oauth2/views/layout.ejs",
+		"/C/Users/Marcus/repos/passport-google-oauth/examples/oauth2/views/query.ejs",
+		"/C/Users/Marcus/repos/passport-google-oauth/examples/oauth2/views/index.ejs",
+		"/C/Users/Marcus/repos/passport-google-oauth/examples/oauth2/views/query-result.ejs",
+		"/C/Users/Marcus/repos/passport-google-oauth/examples/oauth2/app.js",
+		"/C/Users/Marcus/repos/passport-google-oauth/examples/oauth2/views/account.ejs",
+		"/C/Users/Marcus/repos/passport-google-oauth/examples/oauth2/package.json",
+		"/C/Users/Marcus/Desktop/GAband/login.php",
+		"/C/Users/Marcus/repos/api-hub/auth.json",
+		"/C/Users/Marcus/repos/api-hub/views/default.html",
+		"/C/Users/Marcus/repos/api-hub/google.example.js",
+		"/C/Users/Marcus/repos/api-hub/index.js",
+		"/C/Users/Marcus/workspace/hub/index.html",
+		"/C/Users/Marcus/repos/api-hub/views/default.hbs",
+		"/C/Users/Marcus/workspace/hub/index.js",
+		"/C/Users/Marcus/repos/lucida-dictionary/.gitignore",
+		"/C/Users/Marcus/Downloads/Analytics 5 - Perfil Filtrado - VDO Páginas 20141101-20150121 (1).tsv",
+		"/C/Users/Marcus/workspace/learn/exercise2.js",
+		"/C/Users/Marcus/workspace/learn/exercise1.js",
+		"/C/Users/Marcus/workspace/hapiapp/index.js",
+		"/C/Users/Marcus/repos/lucida-dictionary/dist/min/create_custom_data.min.html",
+		"/C/Users/Marcus/repos/lucida-dictionary/sources/data/lp-icarros.js",
+		"/C/Users/Marcus/repos/lucida-dictionary/sources/init.js",
+		"/C/Users/Marcus/Downloads/Disponibilidade.txt",
+		"/C/Users/Marcus/Downloads/Disponibilidade (1).txt",
+		"/C/Users/Marcus/workspace/hapiapp/app.js",
+		"/C/Users/Marcus/workspace/hapiapp/package.json",
+		"/C/Users/Marcus/workspace/hapijs/server.js",
+		"/C/Users/Marcus/Desktop/proto-style.css",
+		"/C/Users/Marcus/Desktop/proto.html",
+		"/C/Users/Marcus/repos/build-by-gulp/README.md",
+		"//srvlucida/Lucida/03 Projetos/Abril/201412-VejaVidaDigital-eventos/Script/tags-abril.js",
+		"/C/Users/Marcus/workspace/testes/index.html",
+		"/C/Users/Marcus/workspace/poc-1409/package.json",
+		"/C/Users/Marcus/workspace/poc-1409/.travis.yml",
+		"/C/Users/Marcus/workspace/poc-1409/gulpfile.js",
+		"/C/Users/Marcus/repos/build-by-gulp/.gitignore",
+		"/C/Users/Marcus/Downloads/GTM-89HT_v309.json",
+		"/C/Users/Marcus/teste/index.html",
+		"/C/Users/Marcus/Desktop/site-eventos-removidos.js",
+		"/C/Users/Marcus/Downloads/GTM-59M429_v63.json",
+		"/C/Users/Marcus/teste/www/teste.css",
+		"/C/Users/Marcus/teste/teste.less",
+		"/C/Users/Marcus/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/Default (Windows).sublime-keymap",
+		"/C/Users/Marcus/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			"C:\\Users\\Marcus\\Desktop\\GAband",
+			"C:\\Users\\Marcus\\repos\\lucida-dictionary\\sources\\dat"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"&",
+			"log",
+			"\\\"",
+			"'",
+			"\\\"",
+			"\\",
+			" class=\".query-input\"",
+			"req",
+			"user",
+			"googleapis.com/auth",
+			"Good",
+			"Hapi",
+			"	",
+			"    ",
+			"   ",
+			"wwws.portoseguro.com.br",
+			"corretor",
+			"Good",
+			"Hapi",
+			"div2",
+			"div1",
+			"rgx",
+			"&",
+			"\\t",
+			"\"\"",
+			"div2",
+			"div1",
+			"button",
+			"\"\"",
+			"\"",
+			"\"\"",
+			"videoEvents",
+			"liveper",
+			"liveperson",
+			"server",
+			"rtb-csync",
+			"openx",
+			"boo-box",
+			"ib.adnxs.com/",
+			"http://ia.nspmotion.com",
+			"atdmt",
+			"ib.",
+			"adnx",
+			"[\n",
+			"pub",
+			"pulse",
+			"nexus",
+			"consol",
+			"console",
+			"_gaTrack"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n&",
+			"\"",
+			"'",
+			"",
+			"user",
+			"good",
+			"hapi",
+			"\\t",
+			"",
+			"good",
+			"hapi",
+			"divisor",
+			"dividendo",
+			"\\&\\n",
+			"\\,\\n",
+			"\"",
+			"divisor",
+			"dividendo",
+			"\"",
+			"'",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ortense.github.io.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
