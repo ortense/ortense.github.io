@@ -60,10 +60,10 @@
             var r = v.replace(/\D/g,"");
             r = r.replace(/^0/,"");
             if (r.length > 10) {
-                r = r.replace(/^(\d\d)(\d{9}).*/,"$1 $2");
+                r = r.replace(/^(\d\d)(\d{9}).*/,"$1-$2");
             }
             else if (r.length > 2) {
-                r = r.replace(/^(\d\d)(\d{0,9})/,"$1 $2");
+                r = r.replace(/^(\d\d)(\d{0,9})/,"$1-$2");
             }
             else {
                 r = r.replace(/^(\d*)/, "$1");
