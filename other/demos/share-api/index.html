@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Try web native share</title>
+</head>
+<body>
+  <button id="share-button">I'M A SHARE BUTTON</button>
+  <p id="debug-output"></p>
+  <script>
+    async function share (e) {
+      try {
+        await navigator.share({
+          title: 'Try web Share API',
+          url: location.href
+        })
+      }
+      catch (err) {
+        document
+          .getElementById('debug-output')
+          .innerText = `${err}`
+      }
+    }
+
+    document
+      .getElementById('share-button')
+      .addEventListener('click', share)
+  </script>
+</body>
+</html>
